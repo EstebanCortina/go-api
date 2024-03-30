@@ -1,0 +1,15 @@
+*.exe
+*.dll
+*.so
+*.dylib
+
+*.o
+*.a
+*.out
+
+go.sum
+/.cache
+/vendor
+
+/tmp
+*.tmp
